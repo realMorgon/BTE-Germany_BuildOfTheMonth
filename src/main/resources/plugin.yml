@@ -1,0 +1,6 @@
+name: BOTM
+version: '0.0.1'
+main: io.github.realMorgon.botm.BOTM
+api-version: '1.21'
+prefix: BOTM
+authors: [ Morgon ]
