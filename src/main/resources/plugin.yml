@@ -1,6 +1,13 @@
 name: BOTM
-version: '0.0.1'
+version: '1.0.0'
 main: io.github.realMorgon.botm.BOTM
 api-version: '1.21'
 prefix: BOTM
 authors: [ Morgon ]
+permissions:
+  bteg.lobby.botm:
+    description: Allows the player to use the /botm command
+    default: false
+commands:
+    botm:
+        description: Central command for the BOTM plugin
